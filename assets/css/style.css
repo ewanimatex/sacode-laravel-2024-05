@@ -1,0 +1,18 @@
+/* css untuk body */
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+/*  css untuk body*/
+h1 {
+    color: white;
+}
+.alamat{
+    color: yellow;
+}
+#belajar{
+    color: red;
+}
+div{
+    background-color: gray; padding: 30px; margin-left: 10p;
+}
